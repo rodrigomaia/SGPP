@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author rodrigo
+ * @author Rodrigo Maia
  */
 public class BeanLinhaExcelTest {
 
